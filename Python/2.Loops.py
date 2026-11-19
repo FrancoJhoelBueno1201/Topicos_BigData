@@ -14,6 +14,6 @@ while contador <=3:
 
 # Do While
 while True:
-    numero = int (input {"Ingrese numero > 0: "})
+    numero = int (input ({"Ingrese numero > 0: "}))
     if numero >0:
         break
